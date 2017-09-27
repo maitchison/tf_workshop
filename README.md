@@ -14,7 +14,7 @@ This comes installed with Anaconda.
 
 See http://jupyter.readthedocs.io/en/latest/install.html if you want to install it manually.
 
-**Tensorflow**:
+**Tensorflow**
 
 \>\> pip install tensorflow
 
