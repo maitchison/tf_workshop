@@ -1,21 +1,26 @@
-#An Introduction to TensorFlow
+# An Introduction to TensorFlow
 
 Build a convolutional neural network to identify hand written digits.
 
-##Requirements
+## Requirements
 
 The easiest way to get all the requirements is to install [Anaconda](https://www.anaconda.com/downloads) which is a collection of data science tools.  These workbooks assume you are using the Python 3.6 version (but 2.7 should work too).
 
 You will then need to install the following additional packages:
 
 **Jupyter notebook**
-This comes installed with Anaconda.  See http://jupyter.readthedocs.io/en/latest/install.html if you want to install it manually.
+
+This comes installed with Anaconda.  
+
+See http://jupyter.readthedocs.io/en/latest/install.html if you want to install it manually.
 
 **Tensorflow**:
+
 \>\> pip install tensorflow
+
 See https://www.tensorflow.org/install/ for alternative options.
 
-##Further Reading
+## Further Reading
 
 There are a lot of great machine learning resources on the internet.
 
